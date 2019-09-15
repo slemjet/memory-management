@@ -11,6 +11,7 @@
     <modules>
         <module>1.values-references</module>
         <module>2.escaping-references</module>
+        <module>3.garbage-collection</module>
     </modules>
 
     <properties>
