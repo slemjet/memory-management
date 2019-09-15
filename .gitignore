@@ -23,3 +23,5 @@
 hs_err_pid*
 
 /.idea/
+/1.values-references/target/
+/2.escaping-references/target/
